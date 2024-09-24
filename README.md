@@ -6,12 +6,7 @@
 ![Netrunner](https://img.shields.io/badge/NETRUNNER-00FFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5ElEQVR4nM2RMQrCQBBF/9hYKaKFYCN4gxzAA3gIK8FLWFtZ2ngNwcrOSvAKQrCJjVjG3c0YLBYMNlr5YWB25v1lZhUAVDWKokJVL6p611pHAKKZgLquAwBrrQ0A+L5/TtP0kuf5DkBARMuZgLquQwBbIjoS0Y6I9uWccs5dAKyYee0poLX2AgDM/DDGXJk5BhAw8xbAlZkTT8EkSa7GmPRz2xhzA3Bm5sF7SETDNxC+90gpdQAGNvBvY13XK2PMwzm3Z+YEwAfAKsuynVIqHMdx/g9RSilVSqmBUqoFsPQs9w3U+t0CfUDXXAAAAABJRU5ErkJggg==&logoColor=white)
 ![Code Synthesizer](https://img.shields.io/badge/CODE%20SYNTHESIZER-FFA500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA2ElEQVR4nM2RMQrCQBBF/2xMESwEG8EKvIEH8BBWgpew1k7SeBTBSiutijeQgAoWMTHubrIhFoHgj4WBYWb+fGZGAaCUCsMwzJVSF6XUXWsdAggmQRzHHoBcKZUD8DzvsVar1S+1Wq0FYElEi0kQx7EHYM3MByLaMPOWiGoAIiJaToI4jj0AWyI6MfOeiA5SSgkhLgCWzLzSWpe+UkoJZn4YY67MHAHwmXkD4MrMse/7Zb/X7/cfxpj0c9sYcwNwZuaOiNr9JRFGo9Ht+CshxMA2+BsTQhSFEE0hxKv5b3kDNJPJbdNOF04AAAAASUVORK5CYII=&logoColor=white)
 
-```ascii
- _____ _                 _____  _     _____  _____ 
-|  _  | |   ___ ___ ___ |  _  ||_|___|     ||     |
-|     | |  | . |   |   ||     || |  _|   --||  |  |
-|__|__|_|__|___|_|_|_|_||__|__||_|___|_____||_____|
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=940&lines=Neural+Architect+%7C+Code+Synthesizer;Cryptography+Enthusiast+%7C+Digital+Nomad" alt="Typing SVG" />
 
 </div>
 
@@ -19,21 +14,22 @@
 
 <div align="center">
 
-![Cyberpunk Gif](https://media.giphy.com/media/JpVIhBFP9mXLRXmAcZ/giphy.gif)
+<img src="https://i.imgur.com/vTwYoKJ.gif" width="600" height="300" alt="Cyberpunk City">
 
 </div>
 
 ### `> Synaptic link established. Accessing bio-data...`
 
-🧠 **Neural Architect** | 💻 **Code Synthesizer** | 🔐 **Cryptography Enthusiast** | 🌐 **Digital Nomad**
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=allanbico&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/allanbico?label=Follow&style=social)](https://github.com/allanbico)
+
+</div>
 
 ---
 
-<div align="center">
-
 ### `> System.out.println("Hello, Netrunner!");`
-
-</div>
 
 Welcome to my digital sanctum, where silicon dreams and electric sheep converge. I'm Allan Bico, a cybernetic entity navigating the neon-lit corridors of code. My mission: to push the boundaries of silicon and synapse, crafting elegant solutions in a world of chaos.
 
@@ -42,6 +38,12 @@ In this sprawling megacity of data, I'm your go-to shadowrunner for all things t
 ---
 
 ### `> Skill Matrix`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,rust,go,typescript,ruby,react,vue,nodejs,graphql,tensorflow,pytorch,docker,kubernetes,aws,git,vim" />
+
+</div>
 
 ```python
 skills = {
@@ -94,34 +96,19 @@ skills = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=allanbico&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=virusinfect&show_icons=true&theme=radical" alt="GitHub Stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=virusinfect&theme=radical" alt="GitHub Streak">
 
 </div>
 
 ---
 
-### `> Neural Network Visualization`
+### `> Code Synthesis Visualization`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allanbico&theme=radical" alt="GitHub Streak">
-
-</div>
-
----
-
-### `> Tech Stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbico&layout=compact&theme=radical" alt="Top Languages">
 
 </div>
 
@@ -129,21 +116,26 @@ skills = {
 
 ### `> Cyberware Upgrades`
 
-- 👁️ Kiroshi Optics Mk.3
-- 🧠 Militech Paraline Cyberdeck
-- 🦾 Arasaka Cyber-Enhanced Reflexes
-- 🔊 AudioWare ChipIn™ Acoustic Amplifier
+<div align="center">
+
+| Upgrade | Description | Status |
+|:-------:|:-----------:|:------:|
+| 👁️ Kiroshi Optics Mk.3 | Enhanced visual processing and data overlay | `Installed` |
+| 🧠 Militech Paraline Cyberdeck | Advanced hacking capabilities and neural processing | `Active` |
+| 🦾 Arasaka Cyber-Enhanced Reflexes | Improved reaction time and motor control | `Optimized` |
+| 🔊 AudioWare ChipIn™ Acoustic Amplifier | High-fidelity audio processing and communication | `Tuned` |
+
+</div>
 
 ---
 
 <div align="center">
 
-```plaintext
-"The future is already here — it's just not evenly distributed."
-                                        - William Gibson
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=3000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=100&lines=%22The+future+is+already+here+%E2%80%94+it's+just+not+evenly+distributed.%22;-+William+Gibson" alt="Quote" />
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=allanbico.allanbico&left_color=green&right_color=red)
+<br>
+
+[![Spotify](https://novatorem-eosin-tau.vercel.app/api/spotify)](https://open.spotify.com/user/allanbico)
 
 </div>
 
